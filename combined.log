@@ -1,0 +1,14 @@
+{"level":"info","message":"Esto es un mensaje de informacion","service":"user-service"}
+{"level":"warn","message":"Esto es un mensaje de advertencia","service":"user-service"}
+{"level":"error","message":"Esto es un mensaje de Error ","service":"user-service"}
+{"level":"info","message":"Esto es un mensaje de informacion","service":"user-service"}
+{"level":"debug","message":"Esto es un mensaje de debug","service":"user-service"}
+{"level":"warn","message":"Esto es un mensaje de advertencia","service":"user-service"}
+{"level":"error","message":"Esto es un mensaje de Error ","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"error","message":"Error: Mostrar funcion Error","service":"user-service"}
+{"level":"error","message":"Error: Mostrar funcion Error","service":"user-service"}
