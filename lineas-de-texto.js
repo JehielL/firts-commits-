@@ -1,5 +1,7 @@
 let nombre = "Jehiel"
 let apellido = "Linarez"
+// eslint-disable-next-line no-unused-vars
+let profesion = "cocinero"
 let estudiante = nombre.concat(" ").concat(apellido) 
 
 let estudianteMayus = estudiante.toUpperCase()
